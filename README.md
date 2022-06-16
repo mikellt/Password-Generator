@@ -1,9 +1,9 @@
 # JavaScript: Password Generator
 
 ## Description
-Application that helps to generate random password between 8-128 characters based on user prefrence.
+Application used to help generate a random password between 8-128 characters based on user preferences.
 
-The user is asked the following questions to determine their preference on how complex they want their password.
+The user is asked the following series of questions to determine how complex they want their password.
 - Length (8-128)
 - Include uppercase
 - Include lowercase
